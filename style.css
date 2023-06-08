@@ -1,0 +1,17 @@
+#firstSection {
+    background: url(./images/main2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+@media (min-width: 640px) {
+    #firstSection {
+        background: url(./images/main.jpg);
+    }
+   
+}
+
+.font-style {
+    font-family: 'Prompt', sans-serif;
+}
+
